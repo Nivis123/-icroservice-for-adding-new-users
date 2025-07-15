@@ -6,4 +6,3 @@
 
 [Задание](documentation/backend%20task.md)
 
-[Кураторы](documentation/curators.md)
